@@ -1,0 +1,251 @@
+body{
+    background:#C42D21;
+    font-family: lato;
+}
+
+
+
+
+.container1{
+    border-top: 6px solid black;
+    width: 1024px;
+    margin: 0 auto;
+    background: #EBE8E8;
+
+}
+
+.c2{
+width: 960px;
+/* background: blue; */
+margin: 0 auto;
+}
+
+.header{
+    display: block;
+    overflow: hidden;
+    height: 60px;
+   }
+
+.hdl{
+float:left;
+width: 28%;
+}
+
+.hdl img{
+float:left;
+height: 55px;
+overflow: hidden;
+
+
+}
+.band{
+    overflow: hidden;
+    padding-top: 15px;
+    padding-left: 4px;
+
+}
+
+.hdl b{
+   font-size: 29px;
+
+}
+
+
+.hdl b span{
+ color: red;
+}
+
+.hdr{
+float: right;
+width: 34%;
+overflow: hidden;
+padding-top: 15px;
+margin-right: 0px
+
+}
+
+.hdr ul{
+ list-style-type: none;
+ overflow: hidden;
+ float: right;
+}
+
+.hdr ul li{
+ float: left;
+margin-right: 3px;
+border-right: 2px solid #ddd;
+}
+
+
+.hdr ul li a 
+{
+    text-decoration: none;
+    margin-right: 3px;
+}
+
+
+
+
+
+
+
+
+.navbar1{
+ 
+ overflow: hidden;
+ display: block;
+ background:#C42D21;
+ color: white;
+ height: 34px;
+
+}
+
+.navs{
+    overflow: hidden;
+    display: block;
+ float: left;
+ 
+ 
+}
+
+.navs ul{
+    list-style-type: none;
+color:white;
+font-style: normal; overflow: hidden;
+float: left; display: block;
+}
+
+.navs ul li{
+    float: left;
+    margin-right: 3px;
+    font-style: normal;
+    height: 34px;
+    width:83px;
+    display: block;
+
+    text-decoration: none; overflow: hidden;
+}
+.navs ul li :hover{
+    background:black; overflow: hidden;
+    display: block;
+}
+.navs ul li a{
+    text-decoration: none;
+    color: white; overflow: hidden;
+}
+
+.call{
+float: right;
+}
+
+.intro{
+ overflow:hidden;
+padding-top: 14px;
+ display: block;
+}
+
+.intro-l{
+    float: left;
+    width: 70%;
+    height: 307px;
+
+}
+
+.intro-r{
+    background:url(img/login.jpg)no-repeat;
+    float: right;
+    color: white;
+  
+  
+    width:28%; 
+    height:307px;
+  
+    
+
+
+}
+
+.cotainer1{
+
+}
+
+.cotainer1{
+
+}
+
+.cotainer1{
+
+}
+
+.cotainer1{
+
+}
+
+.cotainer1{
+
+}
+
+.center{
+text-align: center;
+}
+
+.content{
+    margin-top: 25px;
+    overflow: hidden;
+display: block;
+}
+
+.content_left{
+width: 30%;
+float: left;
+
+}
+
+.content_left h3{
+
+}
+
+.content_left p{
+    font-size: 14px;
+
+}
+
+
+footer{
+ background: black;
+ color: white;
+ overflow: hidden;
+ display: block;
+ height: 60px;
+}
+.secure{
+    padding:5px;
+    float: left;
+}
+
+.copy{
+    padding:5px;
+    float: right;
+
+}
+.content_right img{
+    width: 570px;
+    height: 140px;
+
+}
+
+
+
+
+@media screen and (max-width:600px)
+{
+.container1{
+    width:100%;
+}
+.c2{
+    width: 100%;
+    /* background: blue; */
+    margin: 0 auto;
+    }
+
+}
